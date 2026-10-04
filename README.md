@@ -28,17 +28,17 @@ I'm a Senior Staff Developer at **[Sevalla](https://sevalla.com/?utm_source=gith
 - [**sevalla-deploy**](https://github.com/sevalla-hosting/sevalla-deploy): a GitHub Action that deploys and promotes Sevalla apps and static sites.
 - [**terraform-provider-sevalla**](https://github.com/sevalla-hosting/terraform-provider-sevalla): manage Sevalla infrastructure with Terraform.
 
-## KubeStacks
+## Lumovi
 
-Sevalla runs on Kubernetes, so we watch a lot of clusters. I wanted to see how they're doing at a glance, so I built **[KubeStacks](https://github.com/kotapeter/kubestacks)**: a fast, free and open-source desktop app for every cluster in your kubeconfig. It shows what's healthy, what's struggling and where your capacity goes, and helps you fix things safely.
+Sevalla runs on Kubernetes, so we watch a lot of clusters. I wanted to see how they're doing at a glance, so I built **[Lumovi](https://lumovi.dev)** (it was called KubeStacks): a fast, free and open-source Kubernetes dashboard, on your desktop for every cluster in your kubeconfig, or in your cluster for your whole team. It shows what's healthy, what's struggling and where your capacity goes, and helps you fix things safely.
 
-<a href="https://github.com/kotapeter/kubestacks">
+<a href="https://github.com/Lumovi/Lumovi">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/kubestacks-dark.png">
-    <img alt="KubeStacks showing a cluster's overview: nodes, pods, CPU and memory against capacity, and pod health by namespace." src="assets/kubestacks-light.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/overview-dark.webp">
+    <img alt="Lumovi showing a cluster's overview: nodes, pods and workloads, CPU and memory against capacity, and pod health by namespace." src="https://raw.githubusercontent.com/Lumovi/Lumovi/main/docs/screenshots/overview-light.webp" width="100%">
   </picture>
 </a>
 
-<a href="https://github.com/kotapeter/kubestacks/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/kotapeter/kubestacks?style=flat-square&label=latest%20release&labelColor=1c1819&color=3987e5"></a>
+<a href="https://github.com/Lumovi/Lumovi/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Lumovi/Lumovi?style=flat-square&label=latest%20release&labelColor=1c1819&color=2675d3"></a>
 
-**[Download for macOS, Windows or Linux](https://github.com/kotapeter/kubestacks/releases/latest)** · [Source](https://github.com/kotapeter/kubestacks)
+**[Download for macOS, Windows or Linux](https://github.com/Lumovi/Lumovi/releases/latest)** · [Install in a cluster](https://docs.lumovi.dev/server/install) · [Source](https://github.com/Lumovi/Lumovi)
