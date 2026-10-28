@@ -28,10 +28,10 @@ I'm a Senior Staff Developer at [Sevalla](https://sevalla.com/?utm_source=github
 
 | Repository | What it does |
 | ---------- | ------------ |
-| [`mcp`](https://github.com/sevalla-hosting/mcp) | Sevalla's remote MCP server: deploy, debug and manage Sevalla from any AI agent. |
-| [`cli`](https://github.com/sevalla-hosting/cli) | Deploy and manage applications, databases and static sites on Sevalla from your terminal. |
-| [`sevalla-deploy`](https://github.com/sevalla-hosting/sevalla-deploy) | Deploy and promote Sevalla applications and static sites from GitHub Actions. |
-| [`terraform-provider-sevalla`](https://github.com/sevalla-hosting/terraform-provider-sevalla) | Manage Sevalla applications, databases, static sites and more with Terraform. |
+| [`mcp`](https://github.com/sevalla/mcp) | Sevalla's remote MCP server: deploy, debug and manage Sevalla from any AI agent. |
+| [`cli`](https://github.com/sevalla/cli) | Deploy and manage applications, databases and static sites on Sevalla from your terminal. |
+| [`sevalla-deploy`](https://github.com/sevalla/sevalla-deploy) | Deploy and promote Sevalla applications and static sites from GitHub Actions. |
+| [`terraform-provider-sevalla`](https://github.com/sevalla/terraform-provider-sevalla) | Manage Sevalla applications, databases, static sites and more with Terraform. |
 
 ## Lumovi
 
